@@ -3,7 +3,7 @@
 body {
   background-color: #ffc5c5;
   font-family: "Montserrat", sans-serif;
-  max-height: 100%;
+  height: 100%;
 }
 
 .form_container h2 {
