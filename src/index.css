@@ -4,6 +4,7 @@ body {
   background-color: #ffc5c5;
   font-family: "Montserrat", sans-serif;
   height: 100%;
+  overflow-x: hidden;
 }
 
 .form_container h2 {
