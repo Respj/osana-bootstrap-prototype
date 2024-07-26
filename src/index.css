@@ -72,20 +72,20 @@ button {
   }
 
   .form_container {
-    padding: 2.5rem;
-    width: 75%;
+    padding: 2.2rem;
+    width: 85%;
   }
 
   .form_container h2 {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
   }
 
   .text {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 
   button {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 }
 
