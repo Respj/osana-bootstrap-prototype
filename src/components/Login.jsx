@@ -4,9 +4,9 @@ import { Link } from "react-router-dom";
 function Login() {
   return (
     <div className="login template d-flex justify-content-center align-items-center vh-100">
-      <div className="form_container p-5 rounded-5 bg-white">
+      <div className="form_container rounded-5 bg-white">
         <form>
-          <h2 className="text-center mb-5">Zaloguj się</h2>
+          <h2 className="text-center mb-4">Zaloguj się</h2>
           <div className="mb-2">
             <label htmlFor="email"></label>
             <input

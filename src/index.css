@@ -12,6 +12,7 @@ body {
 }
 
 .form_container {
+  padding: 3.5rem;
   width: 50%;
   box-shadow: 10px 10px #fff0f1;
   flex-direction: column;
@@ -46,6 +47,12 @@ button {
   body {
     font-size: 14px;
   }
+
+  .form_container {
+    width: 65%;
+    padding: 3rem;
+  }
+
   .form_container h2 {
     font-size: 2rem;
   }
@@ -57,28 +64,28 @@ button {
   button {
     font-size: rem;
   }
-
-  .form_container {
-    width: 65%;
-  }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 600px) {
   body {
     font-size: 12px;
   }
+
+  .form_container {
+    padding: 2.5rem;
+    width: 75%;
+  }
+
   .form_container h2 {
     font-size: 1.6rem;
   }
+
   .text {
     font-size: 0.8rem;
   }
 
   button {
     font-size: 0.8rem;
-  }
-  .form_container {
-    width: 75%;
   }
 }
 
