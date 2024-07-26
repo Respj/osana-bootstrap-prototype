@@ -29,9 +29,9 @@ function SignUp() {
           <br />
           <p className="mt-2 mb-0">Masz już konto?</p>
           <p>
-            <a href="" className="link-dark">
-              Zaloguj się <Link to="/" className="ms-2"></Link>
-            </a>
+            <Link to="/" className="link-dark">
+              Zaloguj się{" "}
+            </Link>
           </p>
         </form>
       </div>

@@ -40,9 +40,9 @@ function Login() {
           <br />
           <p className="mt-2 mb-0">Nie masz jeszcze konta?</p>
           <p>
-            <a href="" className="link-dark">
-              Zarejestruj się <Link to="/signup" className="ms-2"></Link>
-            </a>
+            <Link to="/signup" className="link-dark">
+              Zarejestruj się{" "}
+            </Link>
           </p>
         </form>
       </div>
